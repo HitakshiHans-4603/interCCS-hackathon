@@ -12,7 +12,7 @@ Want to get a print at the last moment just before a submission deadline, only t
 
 So , Team CODE EXPLODE has a solution!!
 
-an app targeted to make the  process of taking out your printouts for a project/submission hassle free...introducing .....*name of app* ....., the one stop solution for quickly uploading your docs in required format with all the specifications and with just a click, you make the payment  .Then on the other end the shopkeeper can accept/reject the incoming requests. If its accepted , the printing is automatically begun and the payment is processed.the print once taken out, will show a ready status on the app itself . Also, you can fill the "latest by" field, according to which, the incoming print requests are sorted in such a way that the ones that require it early, would be given a priority .
+An app targeted to make the  process of taking out your printouts for a project/submission hassle free...introducing .....*name of app* ....., the one stop solution for quickly uploading your docs in required format with all the specifications and with just a click, you make the payment  .Then on the other end the shopkeeper can accept/reject the incoming requests. If its accepted , the printing is automatically begun and the payment is processed.the print once taken out, will show a ready status on the app itself . Also, you can fill the "latest by" field, according to which, the incoming print requests are sorted in such a way that the ones that require it early, would be given a priority .
 
 This would surely reduce the chaos at the shop and helps you save your time as well
 
