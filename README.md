@@ -24,7 +24,7 @@
 
 # Step for Set Up
 ``` 
- 1. git clone https://github.com/gowthamand/django-crud-ajax-login-register-fileupload
+ 1. git clone 
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
@@ -42,7 +42,7 @@
 
  9. Login to http://127.0.0.1:8000
 
- 10. python manage.py createsuperuser (enter username, email, password)
+ 
 
 ```
 # Dont't Forgot Give star and fork
