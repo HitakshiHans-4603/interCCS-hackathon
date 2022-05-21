@@ -42,6 +42,11 @@ def list(request):
         members = paginator.page(paginator.num_pages)
     return render(request, 'list.html', {'members': members})
 
+
+
+@login_required    
+def payment(request):
+    return render(request, 'payment.html')    
 @login_required
 def create(request):
     if request.method == 'POST':

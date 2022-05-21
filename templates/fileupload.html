@@ -46,47 +46,18 @@
                                 </div>
                             </div>
                         </div>
-                        <button class="btn btn-primary btn-block" type="submit">Submit &nbsp;&nbsp;&nbsp;<span></span></button>
+                     <a href="#">   <button class="btn btn-primary btn-block" type="submit" >Submit &nbsp;&nbsp;&nbsp;<span></span></button></a>
+                     
                     </form>
                 </div>
             </div>
-            <div class="card mb-3">
-                <div class="card-header">
-                    <i class="fas fa-table"></i>
-                    File List
+            <div>
+                
+                    
                 </div>
-                <div class="table">
-                    <table class="table table-bordered"  width="100%" cellspacing="0">
-                        <thead>
-                        <tr>
-                            <th>Description</th>
-                            <th>File Name</th>
-                            <th>Created At</th>
-                            <th>Action</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        {% for document in documents %}
-                            <tr>
-                                <td>{{ document.description }}</td>
-                                <td>{{ document.document }}</td>
-                                <td>{{ document.uploaded_at }}</td>
-                                <td>
-                                    <a class="btn btn-sm btn-danger" href="file/delete/{{ document.id }}"><span class="fa fa-trash"></span>&nbsp;Delete</a>
-                                </td>
-                            </tr>
-                        {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
+            </div>
             </div>
         </div>
     </div>
-{% endblock %}
-{% block javascript %}
-    <script>
-        $(document).on('change', '.file', function (event) {
-            document.getElementById('fileLabel').innerHTML = event.target.files[0].name;
-        });
-    </script>
+
 {% endblock %}
