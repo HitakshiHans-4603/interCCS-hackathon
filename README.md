@@ -44,9 +44,7 @@ This would surely reduce the chaos at the shop and helps you save your time as w
  
 
 ```
-# Dont't Forgot Give star and fork
 
-## Screen Shots
 
 ![SB Admin Preview](https://lh3.googleusercontent.com/r8mD9IYALSIiErr6gvoNoC7cJq82FpnDmHr-FLUET-USCMpUD62UshqgOw-PVb9slu5lTg=s168)
 ![SB Admin Preview](https://lh3.googleusercontent.com/HRNGHKmn_U9fiSWn2O356hgLgPk8tgrcNe6d0ARD33xgb-X5WxZe2Pj6SSIig2wHvwgJ=s170)
