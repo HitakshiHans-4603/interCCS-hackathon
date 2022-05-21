@@ -1,6 +1,7 @@
 
-# <a>Django Login, Register,Dashboard </a>
+# <a>SwiftPrint </a>
 
+[!logo](https://github.com/HitakshiHans-4603/interCCS-hackathon/blob/main/swiftprint%20logo.png?raw=true)
 About Us:
 Want to get a print at the last moment just before a submission deadline, only to find out that the stationary shop is overflowing with a crowd of students in a similar situation?
 
