@@ -4912,6 +4912,7 @@ input[type="button"].btn-block {
 
 .card-text:last-child {
   margin-bottom: 0;
+  margin-left: 20px;
 }
 
 .card-link:hover {
@@ -4997,6 +4998,7 @@ input[type="button"].btn-block {
 
 .card-deck .card {
   margin-bottom: 15px;
+  margin-left: 20px;
 }
 
 @media (min-width: 576px) {
