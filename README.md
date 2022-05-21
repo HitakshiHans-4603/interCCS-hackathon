@@ -7,6 +7,14 @@
 
 # <a>Django Login, Register,Dashboard Etc </a>
 
+SWIFT PRINT:
+Want to get a print at the last moment just before a submission deadline, only to find out that the stationary shop is overflowing with a crowd of students in a similar situation!?
+Don't worry as Team CODE EXPLODE has got your back!!
+
+An app targeted to make the  process of taking out your printouts for a project/submission hassle free...introducing .....*SWIFT PRINT* ....., the one stop solution for quickly uploading your docs in required format with all the specifications and with just a click, you make the payment  .Then on the other end the shopkeeper can accept/reject the incoming requests. If its accepted , the printing is automatically begun and the payment is processed.   the print once taken out, will show a ready status on the app itself . Also, you can fill the "latest by" field, according to which, the incoming print requests are sorted in such a way that the ones that require it early, would be given a priority .
+
+This would surely reduce the chaos at the shop and helps you save your time as well.
+
 
 
 
@@ -15,16 +23,12 @@
 - 1 . Register
 - 2 . Login
 - 3 . File Upload
-- 4 . Form Validation
-- 5 . CRUD Application
-- 6 . Ajax CRUD Application
-- 7 . File Upload
-- 8 . CSV Import
-- 9 . CSV Export
+- 4 . .jpg to pdf converter
+- 5 . Pdf file compresser
 
 # Step for Set Up
 ``` 
- 1. git clone 
+ 1. git clone https://github.com/gowthamand/django-crud-ajax-login-register-fileupload
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
@@ -42,7 +46,7 @@
 
  9. Login to http://127.0.0.1:8000
 
- 
+ 10. python manage.py createsuperuser (enter username, email, password)
 
 ```
 # Dont't Forgot Give star and fork
