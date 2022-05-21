@@ -26,6 +26,10 @@ def view(request):
     return render(request, 'view.html')    
 
 @login_required
+def fileupload(request):
+    return render(request, 'fileupload.html')        
+
+@login_required
 def list(request):
     members_list = Member.objects.all()
     paginator = Paginator(members_list, 5)
@@ -88,24 +92,7 @@ def delete(request, id):
     return redirect('/list')
 
 
-@login_required
-def fileupload(request):
-    if request.method == 'POST' and request.FILES['myfile']:
-        myfile = request.FILES['myfile']
-        fs = FileSystemStorage()
-        document = Document(
-            description=request.POST['description'],
-            document=myfile.name,
-            uploaded_at=datetime.datetime.now(), )
-        document.save()
-        messages.success(request, 'uploaded successfully!')
-        filename = fs.save(myfile.name, myfile)
-        uploaded_file_url = fs.url(filename)
-        return redirect('fileupload')
-    else:
-        documents = Document.objects.order_by('-uploaded_at')[:3]
-        context = {'documents': documents}
-    return render(request, 'fileupload.html', context)
+
 
 
 @login_required
