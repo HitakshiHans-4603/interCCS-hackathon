@@ -48,13 +48,12 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 
 ## Screen Shots
 
-[![SB Admin Preview](https://lh3.googleusercontent.com/r8mD9IYALSIiErr6gvoNoC7cJq82FpnDmHr-FLUET-USCMpUD62UshqgOw-PVb9slu5lTg=s168)
+![SB Admin Preview](https://lh3.googleusercontent.com/r8mD9IYALSIiErr6gvoNoC7cJq82FpnDmHr-FLUET-USCMpUD62UshqgOw-PVb9slu5lTg=s168)
+![SB Admin Preview](https://lh3.googleusercontent.com/HRNGHKmn_U9fiSWn2O356hgLgPk8tgrcNe6d0ARD33xgb-X5WxZe2Pj6SSIig2wHvwgJ=s170)
 
-[![SB Admin Preview](https://lh3.googleusercontent.com/HRNGHKmn_U9fiSWn2O356hgLgPk8tgrcNe6d0ARD33xgb-X5WxZe2Pj6SSIig2wHvwgJ=s170)
-
-[![SB Admin Preview](https://lh3.googleusercontent.com/EYPmI31HT_DSOkHnpWnULNtSmrZL28O77DPR5b96-A3K0a1_NOshfp1_vTBj97q36JdD=s170)
-
+![SB Admin Preview](https://lh3.googleusercontent.com/EYPmI31HT_DSOkHnpWnULNtSmrZL28O77DPR5b96-A3K0a1_NOshfp1_vTBj97q36JdD=s170)
 
 
 
-# Now Django Project Ready
+
+
