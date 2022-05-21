@@ -21,5 +21,5 @@ urlpatterns = [
     re_path(r'^change_password$', views.changePassword, name='changePassword'),
     re_path(r'^file/delete$', views.changePassword, name='changePassword'),
     re_path(r'^file/delete/(?P<id>\d+)$', views.deleteFiles, name='deleteFiles'),
-  #  re_path(r'^)$', views.deleteFiles, name='deleteFiles'),
+    re_path(r'^view$', views.view, name='view'),
 ]

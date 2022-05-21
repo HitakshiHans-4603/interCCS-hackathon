@@ -18,6 +18,13 @@ def index(request):
     return render(request, 'index.html')
 
 
+def index(request):
+    return render(request, 'index.html')
+
+
+def view(request):
+    return render(request, 'view.html')    
+
 @login_required
 def list(request):
     members_list = Member.objects.all()
@@ -91,7 +98,7 @@ def fileupload(request):
             document=myfile.name,
             uploaded_at=datetime.datetime.now(), )
         document.save()
-        messages.success(request, 'Member was created successfully!')
+        messages.success(request, 'uploaded successfully!')
         filename = fs.save(myfile.name, myfile)
         uploaded_file_url = fs.url(filename)
         return redirect('fileupload')
