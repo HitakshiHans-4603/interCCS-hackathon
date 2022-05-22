@@ -18,7 +18,7 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 - 2 . Login
 - 3 . File Upload
 - 4 . jpg to pdf converter
-- 5 . pdf compresser
+- 5 . setting your print specifications
 - 6 . net banking 
 
 # Step for Set Up
